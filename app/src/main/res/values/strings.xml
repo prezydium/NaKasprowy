@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NaKasprowy</string>
+    <string name="toast1">Na Kasprowy!</string>
 </resources>
