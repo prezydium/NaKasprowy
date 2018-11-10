@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">NaKasprowy</string>
     <string name="toast1">Na Kasprowy!</string>
+    <string name="toast2">Poetic</string>
+    <string name="toast3">Wisdom</string>
+    <string name="toast4">Gentleman</string>
+    <string name="wisdom1">Wisdom</string>
+    <string name="toastCountLabel">Toasts taken: </string>
 </resources>
